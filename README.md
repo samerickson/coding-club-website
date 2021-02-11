@@ -3,15 +3,18 @@
 ## Add a new lesson
 To add a new lesson issue a command line the following, but replace lesson name and id:
 ```
-hugo new Lesson/lesson-0.md
+hugo new lessons/lesson-0.md
 ```
 
-This will create a file in the `Lessons` directory that will look like the following:
+This will create a file in the `lessons` directory that will look like the following:
 ```
 ---
-title: "Lesson 0"
-author: ["John Doe", "Jane Doe"],
-draft: true
+title: "Test"
+date: 2021-02-11T14:09:01-08:00
+images: []
+categories: ["lesson0"]
+tags: ["lesson0"]
+authors: ["Sam Erickson"]
 ---
 
 ```
