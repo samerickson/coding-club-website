@@ -18,6 +18,8 @@
 - [Code Combat](https://codecombat.com/play?hour_of_code=true)--Learn programming through playing a browser based game.
 
 ## Games
+Videogames are often a great way to teach topics in computer science. Afterall, if you want to make your own video games, you will need to learn programming. Here is a list of some of our favorites:
+
 - [2048](https://play2048.co/)--Merge tiles together to grow them by powers of 2. You can also play this game in our Discord server by typing `;2048` in the 2048 text channel. If you get stuck type `;2048 new` to start a new game.
 - [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/)--Incremental game that allows you to practice javascript within the console.
 - [Space Company](https://sparticle999.github.io/SpaceCompany/)--Collect resources and build a space company!
