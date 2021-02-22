@@ -19,8 +19,6 @@ authors: ["Sam Erickson"]
 
 ```
 
-Once you are done writing the lesson, change the `draft` field to `false`
-
 All markdown will be automatically styled and rendered. If you need extra help on writing markdown, you can read more [here](https://www.markdownguide.org/basic-syntax).
 
 ### Publishing a lesson
@@ -40,7 +38,7 @@ port install hugo
 apt install hugo
 ```
 
-**Start local server (with draft rendering enabled):**
+**Start local server:**
 ```
-hudo server -D
+hugo server
 ```
