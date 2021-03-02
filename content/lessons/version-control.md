@@ -21,7 +21,7 @@ authors: ["Jasmine", "Lindsay"]
 
 ## Unplugged Activity
 
-The goal of this activity is to learn about version control and the problem presented when more than one process needs to access or edit the same resource at the same time
+The goal of this activity is to learn about version control and the problems that occur when more than one process needs to access or edit the same resource at any given time.
 
 ### Part 1
 
@@ -44,7 +44,6 @@ Now that we've seen how challenging it can be to have multiple people editing at
 2. Wait for your turn
 3. Now that it's your turn, paste in your sentences where you think they should go and rearrange the ones that are already there if you need to
 4. Tell your group members when your done so everyone else can have a turn if they haven't already
-
 
 ## Coding Activity 
 
@@ -72,23 +71,23 @@ cin >> x;                              // read in the user input and store it in
 cout << "You entered: " << x << endl;  // print what the user entered back to them (endl means print a new line)
 ```
 
-The syntax for cin and cout is easier to learn, but iostream can give you some weird looking error messages! Let us know if you run into this and we can help.
+The syntax for `cin` and `cout` is easier to learn, but iostream can give you some weird looking error messages! Let us know if you run into this and we can help.
 
-For each example and solution in this activity, we have a version for stdio and iostream. When you're working on the activities below, you can choose to use whichever you and your group prefer!
+For each example and solution in this activity, we have a version for `stdio` and `iostream`. When you're working on the activities below, you can choose to use whichever you and your group prefer!
 
 ### Example 1: Hello World
 
 This simple example shows printing "Hello World" out to the user. 
 
-* Here is the stdio version: [Example 1 Stdio Version](https://cplayground.com/?p=rook-butterfly-tarsier)
-* Here is the iostream version: [Example 2 Iostream Version](https://cplayground.com/?p=hippo-panda-monkey)
+* Here is the `stdio` version: [Example 1 Stdio Version](https://cplayground.com/?p=rook-butterfly-tarsier)
+* Here is the `iostream` version: [Example 2 Iostream Version](https://cplayground.com/?p=hippo-panda-monkey)
 
 ## Example 2: Add Two Numbers Together
 
 This example shows how to get two numbers from the user, add them together, and print the result out to the user.
 
-* Here is the stdio version: [Example 2 Stdio Version](https://cplayground.com/?p=herring-pelican-raven)
-* Here is the iostream version: [Example 2 Iostream Version](https://cplayground.com/?p=quetzal-baboon-pelican)
+* Here is the `stdio` version: [Example 2 Stdio Version](https://cplayground.com/?p=herring-pelican-raven)
+* Here is the `iostream` version: [Example 2 Iostream Version](https://cplayground.com/?p=quetzal-baboon-pelican)
 
 ## Problem 1: Find the Biggest Number
 
@@ -96,13 +95,13 @@ In this problem, we want to get three numbers from the user, find which one is t
 
 Below are templates for this program that you can fill in the blanks to complete! You can choose to use stdio or iostream.
 
-* Here is the stdio template: [Problem 1 Stdio Template](https://cplayground.com/?p=pony-snake-zebra)
-* Here is the iostream template: [Problem 1 Iostream Template](https://cplayground.com/?p=fish-chough-panda)
+* Here is the `stdio` template: [Problem 1 Stdio Template](https://cplayground.com/?p=pony-snake-zebra)
+* Here is the `iostream` template: [Problem 1 Iostream Template](https://cplayground.com/?p=fish-chough-panda)
 
 We can help if you get stuck, but the solutions are below if you're ready to see them.
 
-* Here is the stdio solution: [Problem 1 Stdio Solution](https://cplayground.com/?p=lyrebird-nightingale-pheasant)
-* Here is the iostream solution: [Problem 1 Iostream Solution](https://cplayground.com/?p=horse-hawk-crane)
+* Here is the `stdio` solution: [Problem 1 Stdio Solution](https://cplayground.com/?p=lyrebird-nightingale-pheasant)
+* Here is the `iostream` solution: [Problem 1 Iostream Solution](https://cplayground.com/?p=horse-hawk-crane)
 
 ## Problem 2: Print a Triangle
 
@@ -119,13 +118,13 @@ For example, if the user enters 4, we want to print:
 
 Below are templates for this program that you can fill in the blanks to complete!
 
-* Here is the stdio template: [Problem 2 Stdio Template](https://cplayground.com/?p=gaur-partridge-termite)
-* Here is the iostream template: [Problem 2 Iostream Template](https://cplayground.com/?p=cat-pony-chameleon)
+* Here is the `stdio` template: [Problem 2 Stdio Template](https://cplayground.com/?p=gaur-partridge-termite)
+* Here is the `iostream` template: [Problem 2 Iostream Template](https://cplayground.com/?p=cat-pony-chameleon)
 
 We can help if you get stuck, but the solutions are below if you're ready to see them.
 
-* Here is the stdio solution: [Problem 2 Stdio Solution](https://cplayground.com/?p=whale-tapir-snail)
-* Here is the iostream solution: [Problem 2 Iostream Solution](https://cplayground.com/?p=mole-salamander-kudu)
+* Here is the `stdio` solution: [Problem 2 Stdio Solution](https://cplayground.com/?p=whale-tapir-snail)
+* Here is the `iostream` solution: [Problem 2 Iostream Solution](https://cplayground.com/?p=mole-salamander-kudu)
 
 ## Challenge 1: Swap Two Numbers
 
@@ -139,13 +138,13 @@ For this challenge, write your own program that will:
 
 To get started, below are empty files with the needed libraries included.
 
-* Here is the stdio file: [Challenge 1 Stdio File](https://cplayground.com/?p=octopus-sardine-wombat)
-* Here is the iostream file: [Challenge 1 Iostream File](https://cplayground.com/?p=kouprey-nightingale-salamander)
+* Here is the `stdio` file: [Challenge 1 Stdio File](https://cplayground.com/?p=octopus-sardine-wombat)
+* Here is the `iostream` file: [Challenge 1 Iostream File](https://cplayground.com/?p=kouprey-nightingale-salamander)
 
 We can help if you need it, but the solutions are below if you're ready to see them.
 
-* Here is a solution in stdio: [Challenge 1 Stdio Solution](https://cplayground.com/?p=hyena-dove-pony)
-* Here is a solution using iostream: [Challenge 1 Iostream Solution](https://cplayground.com/?p=chameleon-badger-caribou)
+* Here is a solution in `stdio`: [Challenge 1 Stdio Solution](https://cplayground.com/?p=hyena-dove-pony)
+* Here is a solution using `iostream`: [Challenge 1 Iostream Solution](https://cplayground.com/?p=chameleon-badger-caribou)
 
 ## Challenge 2: Print All Numbers in a Range
 
@@ -165,7 +164,7 @@ So if the user enters a `3` and then a `10`, we should print:
 3 4 5 6 7 8 9 10
 ```
 
-Note: you can assume the first number the user enters is smaller than the second number the entered
+**Note:** you can assume the first number the user enters is smaller than the second number the entered
 
 To get started, below are empty files with the needed libraries included.
 
@@ -214,10 +213,10 @@ So if the user enters `3`, we should print:
 
 To get started, below are empty files with the needed libraries included.
 
-* Here is the stdio file: [Challenge 3 Stdio File](https://cplayground.com/?p=starling-ant-goshawk)
-* Here is the iostream file: [Challenge 3 Iostream File](https://cplayground.com/?p=partridge-llama-pangolin)
+* Here is the `stdio` file: [Challenge 3 Stdio File](https://cplayground.com/?p=starling-ant-goshawk)
+* Here is the `iostream` file: [Challenge 3 Iostream File](https://cplayground.com/?p=partridge-llama-pangolin)
 
 We can help if you need it, but the solutions are below if you're ready to see them.
 
-* Here is a solution in stdio: [Challenge 3 Stdio Solution](https://cplayground.com/?p=cassowary-louse-emu)
-* Here is a solution using iostream: [Challenge 3 Iostream Solution](https://cplayground.com/?p=moose-chameleon-badger)
+* Here is a solution in `stdio`: [Challenge 3 Stdio Solution](https://cplayground.com/?p=cassowary-louse-emu)
+* Here is a solution using `iostream`: [Challenge 3 Iostream Solution](https://cplayground.com/?p=moose-chameleon-badger)
