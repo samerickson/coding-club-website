@@ -79,8 +79,8 @@ For each example and solution in this activity, we have a version for `stdio` an
 
 This simple example shows printing "Hello World" out to the user. 
 
-* Here is the `stdio` version: [Example 1 Stdio Version](https://cplayground.com/?p=rook-butterfly-tarsier)
-* Here is the `iostream` version: [Example 2 Iostream Version](https://cplayground.com/?p=hippo-panda-monkey)
+* Here is the `stdio` [version](https://cplayground.com/?p=rook-butterfly-tarsier)
+* Here is the `iostream` [version](https://cplayground.com/?p=hippo-panda-monkey)
 
 ### Example 2: Add Two Numbers Together
 
